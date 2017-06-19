@@ -1,0 +1,46 @@
+.head{
+	font-size: 15px;
+	text-align: right;
+}
+.head a:hover{
+	color: gray;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color: black;
+}
+.logo{
+	width: 50px;
+}
+#name{
+	font-size: 100px;
+	color: white;
+	padding:50px;
+	padding-bottom: 10px;
+}
+.bg{
+	background-image: url("../head.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+	height: 650px;
+	float: right;
+}
+#jieshao{
+	margin: 30px;
+	width: 400px;
+	height: 410px;
+	padding-left: 40px;
+}
+
+table{
+	width: 100%;
+	color: white;
+}
+.bottom{
+  text-align: center;
+  color: white;
+}
